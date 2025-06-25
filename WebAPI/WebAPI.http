@@ -1,0 +1,7 @@
+@WebAPI_HostAddress = http://localhost:5186
+
+# GET {{WebAPI_HostAddress}}/weatherforecast/
+
+GET {{WebAPI_HostAddress}}/PokeAPI/
+Accept: application/json
+
